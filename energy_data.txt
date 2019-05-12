@@ -1,0 +1,12 @@
+1                   !epsilon     
+1                   !sigma       
+1.12246D0           !rc_lj       
+1.81246D0           !rv_lj       
+0.7D0               !rsk_lj  
+1                   !rsk_real    
+2.25D0              !R0_2        
+30D0                !kFENE       
+3                   !lb          
+1                   !Ef          
+2.5D0                 !tol         
+0.05                !tau_rf        
