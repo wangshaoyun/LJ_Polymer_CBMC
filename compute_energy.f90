@@ -69,7 +69,6 @@ subroutine initialize_energy_parameters
   call read_energy_parameters
   !
   !Initialize lj parameters and array allocate.
-  !
   call initialize_lj_parameters
   !
   !build lj_pair_list and lj_point
